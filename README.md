@@ -28,6 +28,10 @@ Attrition Analysis:
 - Power Query
 - Dashboard
 ## Insights
+<img width="1414" alt="egender" src="https://github.com/user-attachments/assets/569e8e19-99dc-49c0-a4ef-ac92e039c392" />
+
+<img width="1322" alt="eattrition" src="https://github.com/user-attachments/assets/b3a0f120-d53e-4432-aff6-6853b12c04f4" />
+
 - Gender gap of 12% with higher number of men across roles.
 - Attrition rate of 49% (male 28% and female 21%).
 - Interns earn the highest salary.
