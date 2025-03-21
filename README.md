@@ -1,4 +1,4 @@
-# Excel Project-Analysis-of-Gender-gap-and-Employees-attrition
+# Excel Project-Analysis-of-Gender-gap-and-Employees-attrition using Human Resources data
 Analysis of Gender gap and Employees attrition in an orgnaisation
 
 ## Project objectives
